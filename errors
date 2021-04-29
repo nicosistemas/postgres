@@ -1,0 +1,6 @@
+Error: You must install at least one postgresql-client-<version> package
+
+sudo apt-get install postgresql-client-common
+sudo apt-get install postgresql-client
+
+psql -h [ip-database] -U [usuario] -d [database]
