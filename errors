@@ -4,3 +4,9 @@ sudo apt-get install postgresql-client-common
 sudo apt-get install postgresql-client
 
 psql -h [ip-database] -U [usuario] -d [database]
+
+Docker exec:
+
+docker exec -it yiialkalmi_postgres_1 psql -U project -W project
+docker exec -it yiialkalmi_postgres_1 bash
+
