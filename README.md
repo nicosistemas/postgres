@@ -36,3 +36,28 @@ agregas un json en .devcontainer/maquina.json con datos de la máquina, algo asi
     ]
 }
 ```
+
+ ejemplo psql cli
+
+``` console
+{
+    "id": "postgres-asdf",
+    "version": "1.0.2",
+    "name": "PostgreSQL (via asdf)",
+    "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/postgres-asdf",
+    "description": "PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.",
+    "options": {
+        "version": {
+            "default": "latest",
+            "description": "Select the version to install.",
+            "proposals": [
+                "latest"
+            ],
+            "type": "string"
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers-contrib/features/asdf-package"
+    ]
+}
+```
