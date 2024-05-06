@@ -1,8 +1,18 @@
+### REPO UTILIZADO PARA PROBAR CODESPACES Y ISSUES
+
+
+* PRUEBAS DE ISSUES:
+
+https://github.com/nicosistemas/postgres/issues/1
+
+
+* CODESPACES:
+
 [algunas maquinas que se pueden usar para codespaces](https://containers.dev/features)
 
 agregas un json en .devcontainer/maquina.json con datos de la máquina, algo asi:
 
-* ejemplo kubectl
+ ejemplo kubectl
 
 ``` console
 {
