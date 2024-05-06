@@ -10,8 +10,15 @@ https://github.com/nicosistemas/postgres/issues/1
 
 [algunas maquinas que se pueden usar para codespaces](https://containers.dev/features)
 
-agregas un json en .devcontainer/maquina.json con datos de la máquina, algo asi:
+agregas un json en .devcontainer/maquina.json con datos de la máquina Ó podes agregar más maquinas para poder elegir según las features que tengan esos codespaces:
 
+```
+.devcontainer/EQUIPO-1/devcontainer.json
+.devcontainer/EQUIPO-2/devcontainer.json
+```
+
+
+---
  ejemplo kubectl
 
 ``` console
