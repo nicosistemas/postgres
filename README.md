@@ -86,4 +86,4 @@ fuente: https://github.com/devcontainers-contrib/features
 ```
 
 
-### se puede activar con https ://codespaces . new/github/docs eligiendo el repo correspondiente
+### se puede activar con https://codespaces.new eligiendo el repo correspondiente
