@@ -17,7 +17,7 @@ agregas un json en .devcontainer/maquina.json con datos de la máquina Ó podes 
 .devcontainer/EQUIPO-2/devcontainer.json
 ```
 
-
+fuente: https://github.com/devcontainers-contrib/features
 ---
  ejemplo kubectl
 
