@@ -61,3 +61,19 @@ agregas un json en .devcontainer/maquina.json con datos de la máquina, algo asi
     ]
 }
 ```
+
+ ejemplo curl
+
+``` console
+{
+    "id": "curl-apt-get",
+    "version": "1.0.16",
+    "name": "cURL (via apt-get)",
+    "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/curl-apt-get",
+    "description": "cURL is a computer software project providing a library and command-line tool for transferring data using various network protocols.",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers-contrib/features/apt-get-packages"
+    ]
+}
+```
