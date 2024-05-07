@@ -5,6 +5,10 @@
 
 https://github.com/nicosistemas/postgres/issues/1
 
+* DRAFT PULL REQUEST
+
+https://github.com/nicosistemas/postgres-codespaces/pull/12
+
 
 * CODESPACES:
 
@@ -87,7 +91,3 @@ fuente: https://github.com/devcontainers-contrib/features
 
 
 ### se puede activar con https://codespaces.new eligiendo el repo correspondiente
-
-* DRAFT PULL REQUEST
-
-https://github.com/nicosistemas/postgres-codespaces/pull/12
