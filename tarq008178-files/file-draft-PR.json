@@ -1,4 +1,5 @@
 {
-  "draft": "es un jason para crear un Draft Pull Request"
-  "pase_review": "lo paso a ready for review"
+  "draft": "es un jason para crear un Draft Pull Request",
+  "pase_review": "lo paso a ready for review",
+  "pase_draft": "pasar de PR a Draft PR"
 }
